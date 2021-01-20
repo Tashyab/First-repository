@@ -2,5 +2,6 @@ error.log
 *.log
 ignoreme/
 !important-error.log
+naya/
 
 
