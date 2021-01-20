@@ -1,3 +1,0 @@
-Hello everyone.
-<<First Change>>
- :Hi.
