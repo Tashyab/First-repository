@@ -1,7 +1,6 @@
 error.log
 *.log
 ignoreme/
-naya/
 !important-error.log
 
 
